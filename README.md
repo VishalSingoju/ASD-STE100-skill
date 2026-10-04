@@ -1,6 +1,4 @@
 # ASD-STE100-skill
-A Claude skill for writing and reviewing technical text in ASD-STE100 Simplified Technical English, with a rules reference and a heuristic checker script.
-# asd-ste100
 
 A Claude skill that helps write, rewrite, and review text in
 ASD-STE100 Simplified Technical English, the controlled language
